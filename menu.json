@@ -1,0 +1,26 @@
+[
+  {
+    "label":"Home",
+    "url":"/"
+  },
+  {
+    "label":"Games",
+    "url":"/games"
+  },
+  {
+    "label":"Software",
+    "url":"/software"
+  },
+  {
+    "label":"Merch",
+    "url":"https://merch.headarrow.com"
+  },
+  {
+    "label":"Team",
+    "url":"/team"
+  },
+  {
+    "label":"Publish",
+    "url":"https://publisher.headarrow.com"
+  }
+]
