@@ -2,7 +2,7 @@
     "id":"123e4567-e89b-12d3-a456-426614174000",
     "title":"Game 1",
     "slug":"game-1",
-    "developer":"123e4567-e89b-12d3-a456-426614172000",
+    "developer":"developer",
     "status":"released",
     "categories":["horror","singleplayer"],
     "logoImage":"https://picsum.photos/200/300",
