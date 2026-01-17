@@ -1,0 +1,18 @@
+{
+    "id":"123e4567-e89b-12d3-a456-426614174000",
+    "title":"Game 2",
+    "slug":"game-2",
+    "developer":"developer",
+    "status":"released",
+    "categories":["horror","singleplayer"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/dollimpostorlogo.png?raw=true",
+    "bgImage":"https://picsum.photos/1200/600",
+    "description":"An exciting horror game that will keep you on the edge of your seat.",
+    "links":[
+        {
+            "name":"Website",
+            "icon": "fa-solid fa-globe",
+            "url":"https://example.com"
+        }
+    ]
+}
