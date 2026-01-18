@@ -1,0 +1,17 @@
+{
+    "name":"David Gallardo",
+    "role":"Founder",
+    "avatarImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/-Xi4oHks_400x400.jpg?raw=true",
+    "links":[
+        {
+            "name":"X",
+            "icon": "fa-brands fa-x",
+            "url":"https://x.com/davicyyoYT"
+        },
+        {
+              "name":"Steam",
+              "icon": "fa-brands fa-steam",
+              "url":"https://store.steampowered.com/search/?developer=David%20Gallardo"
+          },
+    ]
+}
