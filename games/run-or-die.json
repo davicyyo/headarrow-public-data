@@ -1,0 +1,15 @@
+{
+    "title":"Run or Die",
+    "developer":["jump-forge"],
+    "categories":["platformer","singleplayer","co-op","multiplayer","funny"],
+    "logoImage":"",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/runordie.jpg?raw=true",
+    "description":"Embark on an adventure across multiple worlds in this dynamic 3D platformer! Utilize the BunnyHOP ability to leap through obstacles, face unique challenges, and uncover hidden secrets. Fun and excitement are guaranteed with every jump!",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/2548650/Run_or_Die/"
+        }
+    ]
+}
