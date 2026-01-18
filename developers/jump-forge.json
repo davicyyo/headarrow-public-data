@@ -1,0 +1,12 @@
+{
+    "name": "Jump Forge",
+    "role": "Developer",
+    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/JF.png?raw=true",
+    "links": [
+        {
+            "name": "Steam",
+            "icon": "fa-brands fa-steam",
+            "url": "https://store.steampowered.com/search/?developer=Jump%20Forge"
+        }
+    ]
+}
