@@ -1,0 +1,15 @@
+{
+    "title":"FLOORS",
+    "developer":["david-gallardo"],
+    "categories":["walking simulator","singleplayer","horror"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/floors_logo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1480.png?raw=true",
+    "description":"Embark on a procedural liminal journey filled with eerie, unfriendly faces. Walk, explore, and descend to the first floor to escape. No monsters will chase you, but they can watch and appear when you aren't looking. This can evoke a fear of an endless labyrinth and create a sense of anxiety.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/3091480/FLOORS/"
+        }
+    ]
+}
