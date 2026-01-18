@@ -10,6 +10,11 @@
             "name":"Steam",
             "icon": "fa-brands fa-steam",
             "url":"https://store.steampowered.com/app/3613910/Pipeline_Crawl/"
+        },
+        {
+            "name":"Itch.io",
+            "icon": "fa-brands fa-itch-io",
+            "url":"https://headarrow.itch.io/pipeline-crawl"
         }
     ]
 }
