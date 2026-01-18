@@ -1,0 +1,15 @@
+{
+    "title":"Cube Mind",
+    "developer":["david-seco"],
+    "categories":["action","adventure","puzzle","platformer"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cibemindlogo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cibemindbg.png?raw=true",
+    "description":"Cube Mind is a challenging first-person puzzle game with a futuristic and minimalist aesthetic. Solve interconnected rooms using logic, precision, and creativity in a world where every action matters.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/3654570/Cube_Mind/"
+        }
+    ]
+}
