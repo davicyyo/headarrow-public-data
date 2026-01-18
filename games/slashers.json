@@ -1,0 +1,15 @@
+{
+    "title":"Slashers",
+    "developer":["david-gallardo","paula-gallardo"],
+    "categories":["horror","singleplayer","co-op","multiplayer","puzzle"],
+    "logoImage":"",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/slashers.png?raw=true",
+    "description":"Slashers is a 1-4 player cooperative horror game, you are explorers of abandoned and seemingly cursed places, your goal is to see what happened there.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/1875810/Slashers/"
+        }
+    ]
+}
