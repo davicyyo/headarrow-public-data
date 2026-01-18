@@ -1,0 +1,15 @@
+{
+    "title":"Doll Impostor",
+    "developer":["david-gallardo"],
+    "categories":["walking simulator","singleplayer","horror","puzzle","co-op","multiplayer"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/dollimpostorlogo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/bg.png?raw=true",
+    "description":"Doll Impostor is a horror game where 1-4 players take on the role of guardians of possessed dolls. Work together to identify the impostor doll before 9 a.m, or face dire consequences. Every hour counts in this tense, fear-filled race against time.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/2882870/Doll_Impostor/"
+        }
+    ]
+}
