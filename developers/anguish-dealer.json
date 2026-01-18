@@ -1,0 +1,12 @@
+{
+    "name": "Anguish Dealer",
+    "role": "Developer",
+    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/AD.png?raw=true",
+    "links": [
+        {
+            "name": "Steam",
+            "icon": "fa-brands fa-steam",
+            "url": "https://store.steampowered.com/search/?developer=Anguish%20Dealer"
+        }
+    ]
+}
