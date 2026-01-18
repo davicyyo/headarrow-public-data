@@ -1,0 +1,15 @@
+{
+    "title":"Toy Escape",
+    "developer":["samuel-de-pablo","david-gallardo"],
+    "categories":["co-op","multiplayer","singleplayer","adventure","platformer"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/te_logo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/te_bg.png?raw=true",
+    "description":"Toy Escape is a co-op game for up to 4 players where you play as a small toy trying to climb your way through a giant house to reach the rooftop and escape. Jump, climb, and find your way out in this fun, toy-sized adventure!",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/3654580/Toy_Escape/"
+        }
+    ]
+}
