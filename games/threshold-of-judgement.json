@@ -1,0 +1,15 @@
+{
+    "title":"Threshold of Judgement",
+    "developer":["anguish-dealer"],
+    "categories":["quizz","horror"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/tojlogo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/tojbg.png?raw=true",
+    "description":"A mysterious gate judges your soul between Heaven and Hell. Answer wisely — fifteen truths lead to salvation, one mistake to eternal damnation.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/4114610/Threshold_of_Judgment/"
+        }
+    ]
+}
