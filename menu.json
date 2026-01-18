@@ -4,23 +4,11 @@
     "url":"/"
   },
   {
-    "label":"Games",
-    "url":"/games"
-  },
-  {
-    "label":"Software",
-    "url":"/software"
-  },
-  {
-    "label":"Merch",
-    "url":"https://merch.headarrow.com"
+    "label":"Projects",
+    "url":"/projects"
   },
   {
     "label":"Team",
     "url":"/team"
-  },
-  {
-    "label":"Publish",
-    "url":"https://publisher.headarrow.com"
   }
 ]
