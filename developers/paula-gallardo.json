@@ -1,0 +1,12 @@
+{
+    "name": "Paula Gallardo",
+    "role": "Artist",
+    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/-Xi4oHks_400x400.jpg?raw=true",
+    "links": [
+        {
+            "name": "Steam",
+            "icon": "fa-brands fa-steam",
+            "url": "https://store.steampowered.com/search/?developer=Paula%20Gallardo"
+        }
+    ]
+}
