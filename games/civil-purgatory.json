@@ -1,0 +1,15 @@
+{
+    "title":"Civil Purgatory",
+    "developer":["ai-ground"],
+    "categories":["chat","simulation","singleplayer","story-rich","visual-novel","political"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cp_logo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cp_bg.png?raw=true",
+    "description":"Interrogate, investigate, and judge in an authoritarian regime. In Civil Purgatory, real-time AI-generated role-playing dialogue adds depth and dynamism to this narrative simulation full of moral dilemmas, where you decide who walks free… and who doesn’t.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/3902690/Civil_Purgatory/"
+        }
+    ]
+}
