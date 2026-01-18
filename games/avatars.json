@@ -1,0 +1,15 @@
+{
+    "title":"Avatars",
+    "developer":["ai-ground"],
+    "categories":["chat","story-rich","visual-novel","sandbox","simulation"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/avatars_logo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/avatars_bg.png?raw=true",
+    "description":"Create, share, and play with AI-powered avatars. Design intelligent characters, publish them, and explore what other players make.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/4072280/Avatars/"
+        }
+    ]
+}
