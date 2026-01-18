@@ -1,7 +1,6 @@
 {
     "id":"123e4567-e89b-12d3-a456-426614174000",
     "title":"Game 2",
-    "slug":"game-2",
     "developer":"developer",
     "status":"released",
     "categories":["horror","singleplayer"],
