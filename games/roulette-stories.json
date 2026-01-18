@@ -1,0 +1,15 @@
+{
+    "title":"Roulette Stories",
+    "developer":["ai-ground"],
+    "categories":["chat","simulation","comedy","story-rich","visual-novel"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/roulette_white.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/bg_roulette.png?raw=true",
+    "description":"Roulette Stories is an interactive AI-driven game where you engage in diverse stories, chat with virtual characters, and explore multiple settings. Your choices shape branching narratives with adaptive responses, offering a unique experience in every playthrough.",
+    "links":[
+        {
+            "name":"Itch.io",
+            "icon": "fa-brands fa-itch-io",
+            "url":"https://headarrow.itch.io/roulette-stories"
+        }
+    ]
+}
