@@ -1,0 +1,15 @@
+{
+    "title":"Doll Inc",
+    "developer":["david-gallardo"],
+    "categories":["walking simulator","singleplayer","horror","difficult"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1280.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1480dinc.png?raw=true",
+    "description":"Sort, decide, and obey. Doll Inc is a job simulator where your judgment determines the fate of every product. Are you precise… or replaceable?",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/3722760/DOLL_INC/"
+        }
+    ]
+}
