@@ -1,0 +1,15 @@
+{
+    "title":"Fate Dealer",
+    "developer":["anguish-dealer"],
+    "categories":["quizz","singleplayer","horror"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/fatelogo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/fatebg.png?raw=true",
+    "description":"Bet your freedom in a deadly quiz where a single answer can save you… or kill you. Will you take the Dealer’s offer or walk away alive?",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/4151150/Fate_Dealer"
+        }
+    ]
+}
