@@ -1,0 +1,15 @@
+{
+    "title":"Teddy Collector",
+    "developer":["pocket-collector"],
+    "categories":["casual","relaxing","arcade"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/teddylogo.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/0fb33c15-5e2c-49dd-b77d-a877611fe523.png?raw=true",
+    "description":"Not just luck, a skill-based claw machine with real physics, arcade minigames, and dozens of teddies to collect.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/4375220/Teddy_Collector"
+        }
+    ]
+}
