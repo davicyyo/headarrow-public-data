@@ -1,0 +1,15 @@
+{
+    "title":"8AM: The Shopping Mall",
+    "developer":["david-gallardo"],
+    "categories":["walking simulator","singleplayer","horror"],
+    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/logo_8am_tsm.png?raw=true",
+    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/bg_8am_tsm.png?raw=true",
+    "description":"\"8AM: The Shopping Mall\" is a suspense game set in an empty mall after closing. Watch through security cameras as strange movements unfold and decide if it’s a glitch, exhaustion, or something sinister until 8:00 a.m.",
+    "links":[
+        {
+            "name":"Steam",
+            "icon": "fa-brands fa-steam",
+            "url":"https://store.steampowered.com/app/4100810/8AM_The_Shopping_Mall/"
+        }
+    ]
+}
