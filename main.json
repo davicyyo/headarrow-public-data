@@ -1,3 +1,8 @@
 {
-  "heros":["8am-the-shopping-mall.json","teddy-collector.json","fate-dealer.json"]
+  "heros": [
+    "8am-the-shopping-mall.json",
+    "teddy-collector.json",
+    "fate-dealer.json",
+    "8am.json"
+  ]
 }
