@@ -1,12 +1,12 @@
 {
-    "name": "AiGround",
-    "role": "Developer",
-    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/AI.png?raw=true",
-    "links": [
-        {
-            "name": "Steam",
-            "icon": "fa-brands fa-steam",
-            "url": "https://store.steampowered.com/search/?developer=AIGround"
-        }
-    ]
+  "name": "AiGround",
+  "role": "Developer",
+  "avatarImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778023197383-gemini-generated-image-gpgyjbgpgyjbgpgy-2.png",
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=AIGround"
+    }
+  ]
 }
