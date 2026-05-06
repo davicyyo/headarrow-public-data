@@ -1,0 +1,25 @@
+{
+  "title": "FLOORS Together",
+  "developer": [
+    "david-gallardo"
+  ],
+  "categories": [
+    "walking simulator",
+    "singleplayer",
+    "horror",
+    "co-op",
+    "multiplayer"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778096297985-1232.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "1–4 player co-op horror where every descent is a risk. Explore shifting floors, gather loot, and survive unpredictable entities to reach the bottom.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4582040/FLOORS_Together/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
