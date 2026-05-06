@@ -1,20 +1,29 @@
 {
-    "title":"Pipeline Crawl",
-    "developer":["david-seco"],
-    "categories":["walking simulator","singleplayer","horror","difficult"],
-    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/pipelogo.png?raw=true",
-    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1438.png?raw=true",
-    "description":"Trapped inside a narrow pipeline, your only choices are to move forward or backward. Deadly obstacles stand in your way, and a single mistake means starting over. Can you escape?",
-    "links":[
-        {
-            "name":"Steam",
-            "icon": "fa-brands fa-steam",
-            "url":"https://store.steampowered.com/app/3613910/Pipeline_Crawl/"
-        },
-        {
-            "name":"Itch.io",
-            "icon": "fa-brands fa-itch-io",
-            "url":"https://headarrow.itch.io/pipeline-crawl"
-        }
-    ]
+  "title": "Pipeline Crawl",
+  "developer": [
+    "david-seco"
+  ],
+  "categories": [
+    "walking simulator",
+    "singleplayer",
+    "horror",
+    "difficult"
+  ],
+  "logoImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/pipelogo.png?raw=true",
+  "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1438.png?raw=true",
+  "releaseDate": "",
+  "releaseTba": false,
+  "description": "Trapped inside a narrow pipeline, your only choices are to move forward or backward. Deadly obstacles stand in your way, and a single mistake means starting over. Can you escape?",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/3613910/Pipeline_Crawl/",
+      "icon": "fa-brands fa-steam"
+    },
+    {
+      "label": "",
+      "url": "https://headarrow.itch.io/pipeline-crawl",
+      "icon": "fa-brands fa-itch-io"
+    }
+  ]
 }
