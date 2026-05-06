@@ -1,15 +1,23 @@
 {
-    "title":"Chatai",
-    "developer":["ai-ground"],
-    "categories":["chat","simulation","software"],
-    "logoImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/chatai_logo.png?raw=true",
-    "bgImage":"https://github.com/davicyyo/headarrow-public-data/blob/main/assets/chatai_bg.png?raw=true",
-    "description":"Say goodbye to cloud-based AI and hello to total privacy! ChatAi is a powerful, self-hosted AI tool that lets you create stunning content on your own PC – no internet required! 🎉",
-    "links":[
-        {
-            "name":"Itch.io",
-            "icon": "fa-brands fa-itch-io",
-            "url":"https://headarrow.itch.io/chatai"
-        }
-    ]
+  "title": "Chatai",
+  "developer": [
+    "ai-ground"
+  ],
+  "categories": [
+    "chat",
+    "simulation",
+    "software"
+  ],
+  "logoImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/chatai_logo.png?raw=true",
+  "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/chatai_bg.png?raw=true",
+  "releaseDate": "",
+  "releaseTba": false,
+  "description": "Say goodbye to cloud-based AI and hello to total privacy! ChatAi is a powerful, self-hosted AI tool that lets you create stunning content on your own PC â no internet required! ð",
+  "links": [
+    {
+      "label": "",
+      "url": "https://headarrow.itch.io/chatai",
+      "icon": "fa-brands fa-itch-io"
+    }
+  ]
 }
