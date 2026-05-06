@@ -1,0 +1,21 @@
+{
+  "title": "Inside",
+  "developer": [
+    "david-gallardo"
+  ],
+  "categories": [
+    "horror"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778096395965-ss-b3ed12d8ffe9d675f468df1aefd97eaefff7b71a-1920x1080.jpg",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Inside immerses you in a mysterious forest where shadows and whispers toy with your psyche. As you delve deeper, the line between reality and illusion blurs, with only a flashlight guiding your path in this psychological horror journey.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/2596760/Inside/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
