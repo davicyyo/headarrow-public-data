@@ -16,9 +16,9 @@
   "description": "\"8AM: The Office\" is a suspense game set in a deserted office at night. Observe workers through security cameras and decide if their odd behaviors stem from fatigue or something sinister, aiming to survive until 8:00 a.m.",
   "links": [
     {
-      "name": "Steam",
-      "icon": "fa-brands fa-steam",
-      "url": "https://store.steampowered.com/app/4076060/8AM_The_Office/"
+      "label": "",
+      "url": "https://store.steampowered.com/app/4076060/8AM_The_Office/",
+      "icon": "fa-brands fa-steam"
     }
   ]
 }
