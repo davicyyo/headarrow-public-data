@@ -1,0 +1,25 @@
+{
+  "title": "Mushroom Collector",
+  "developer": [
+    "samuel-de-pablo"
+  ],
+  "categories": [
+    "co-op",
+    "multiplayer",
+    "singleplayer",
+    "adventure",
+    "platformer"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778095283018-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778095295073-mushroombg.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Explore ever-changing worlds in search of strange, stylized mushrooms. Each discovery is unique. Once collected, it’s added to your journal and never appears again. Track rare finds, learn their spawn patterns, and complete your collection while living in your floating home between expeditions.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4653280/Mushroom_Collector/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
