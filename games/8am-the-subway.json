@@ -1,0 +1,24 @@
+{
+  "title": "8AM: The Subway",
+  "developer": [
+    "david-gallardo"
+  ],
+  "categories": [
+    "walking simulator",
+    "singleplayer",
+    "horror",
+    "simulation"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778089966488-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778089969394-bg.png",
+  "releaseDate": "2026-07-01",
+  "releaseTba": false,
+  "description": "\"8AM: The Subway\" is a suspense game set in the subway after midnight. Watch the security cameras as eerie events unfold and decide if it’s fatigue, malfunction, or something far darker until 8:00 a.m.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4111600/8AM_The_Subway/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
