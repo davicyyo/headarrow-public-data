@@ -13,12 +13,12 @@
   "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/bg_8am_tsm.png?raw=true",
   "releaseDate": "",
   "releaseTba": false,
-  "description": "\"8AM: The Shopping Mall\" is a suspense game set in an empty mall after closing. Watch through security cameras as strange movements unfold and decide if itâs a glitch, exhaustion, or something sinister until 8:00 a.m.",
+  "description": "\"8AM: The Shopping Mall\" is a suspense game set in an empty mall after closing. Watch through security cameras as strange movements unfold and decide if itÃ¢ÂÂs a glitch, exhaustion, or something sinister until 8:00 a.m.",
   "links": [
     {
-      "name": "Steam",
-      "icon": "fa-brands fa-steam",
-      "url": "https://store.steampowered.com/app/4100810/8AM_The_Shopping_Mall/"
+      "label": "",
+      "url": "https://store.steampowered.com/app/4100810/8AM_The_Shopping_Mall/",
+      "icon": "fa-brands fa-steam"
     }
   ]
 }
