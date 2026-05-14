@@ -1,5 +1,7 @@
 {
   "title": "Scrap Yard Idle",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "david-seco"
   ],
@@ -13,8 +15,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778095687760-logo.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778095692581-cover-steam-scrap-yard.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "releaseDate": "2026-07-27",
+  "releaseTba": false,
   "description": "Build your own scrap empire in this incremental idle game. Collect, process, and automate your production chain while optimizing resources and scaling your industrial system.",
   "links": [
     {
