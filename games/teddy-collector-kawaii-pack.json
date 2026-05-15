@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Kawaii Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821090543-ss-2162ba160ba374c8dc1640a25761788f6625e33c-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4687150/Teddy_Collector__Kawaii_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
