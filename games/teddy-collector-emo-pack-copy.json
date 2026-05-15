@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Emo Pack Copy",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821209199-ss-7bbba933ca02221dffa986ec53886d6524d0d0f2-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4692120/Teddy_Collector__Food_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
