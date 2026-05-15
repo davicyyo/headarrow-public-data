@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Cyberpunk Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821329095-ss-f9f2b7756fb1f45159db1e67c278c257900a42f0-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4692140/Teddy_Collector__Cyberpunk_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
