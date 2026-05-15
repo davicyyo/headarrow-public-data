@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Emo Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778820905510-ss-58ff099c77320961b786ad43e30eb04077a7566a-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4687180/Teddy_Collector__Emo_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
