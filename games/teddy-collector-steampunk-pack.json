@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Steampunk Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821157902-ss-3856414ef53e89af661a30b517bb596641a41ff2-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4687170/Teddy_Collector__Steampunk_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
