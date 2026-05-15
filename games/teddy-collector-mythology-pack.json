@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Mythology Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821128862-ss-9bb29da1e54a86aba01632d7b18353ff5d3c6568-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4687160/Teddy_Collector__Mythology_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
