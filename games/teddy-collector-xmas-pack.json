@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Xmas Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778821259750-ss-169addfe2c1ad60f74c940f9e34ad726670b6cdf-1920x1080.jpg",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4692100/Teddy_Collector__Xmas_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
