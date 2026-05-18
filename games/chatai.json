@@ -1,5 +1,7 @@
 {
   "title": "Chatai",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "ai-ground"
   ],
@@ -12,7 +14,7 @@
   "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/chatai_bg.png?raw=true",
   "releaseDate": "2025-03-12",
   "releaseTba": false,
-  "description": "Say goodbye to cloud-based AI and hello to total privacy! ChatAi is a powerful, self-hosted AI tool that lets you create stunning content on your own PC Ã¢ÂÂ no internet required! Ã°ÂÂÂ",
+  "description": "Say goodbye to cloud-based AI and hello to total privacy! ChatAi is a powerful, self-hosted AI tool that lets you create stunning content on your own PC – no internet required! 🎉",
   "links": [
     {
       "label": "",
