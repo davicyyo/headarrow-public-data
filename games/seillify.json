@@ -1,0 +1,26 @@
+{
+  "title": "Seillify",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "david-gallardo"
+  ],
+  "categories": [
+    "software",
+    "sales",
+    "sass",
+    "tiktok"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779127043623-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779127079535-captura-de-pantalla-2026-05-18-145744.png",
+  "releaseDate": "2025-12-30",
+  "releaseTba": false,
+  "description": "Sell on TikTok Live without losing sales",
+  "links": [
+    {
+      "label": "",
+      "url": "https://www.seillify.com",
+      "icon": "fa-solid fa-globe"
+    }
+  ]
+}
