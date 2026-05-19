@@ -1,0 +1,25 @@
+{
+  "title": "Teddy Collector - Cozy Pack",
+  "gameType": "dlc",
+  "parentGame": "teddy-collector.json",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779155417933-f768a0ff-8946-48ba-a81e-260f4e445fd2.png",
+  "releaseDate": "2026-05-04",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4683160/Teddy_Collector__Cozy_Pack/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
