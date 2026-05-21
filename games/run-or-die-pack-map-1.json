@@ -7,7 +7,10 @@
   ],
   "categories": [
     "platformer",
-    "singleplayer"
+    "singleplayer",
+    "co-op",
+    "multiplayer",
+    "funny"
   ],
   "logoImage": "",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779388756874-dlcpack1.png",
