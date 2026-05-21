@@ -1,0 +1,25 @@
+{
+  "title": "Run or Die - Pack Map 1",
+  "gameType": "dlc",
+  "parentGame": "run-or-die.json",
+  "developer": [
+    "jump-forge"
+  ],
+  "categories": [
+    "casual",
+    "relaxing",
+    "arcade"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779388756874-dlcpack1.png",
+  "releaseDate": "2026-05-25",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4762900",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
