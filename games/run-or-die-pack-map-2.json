@@ -1,0 +1,27 @@
+{
+  "title": "Run or Die - Pack Map 2",
+  "gameType": "dlc",
+  "parentGame": "run-or-die.json",
+  "developer": [
+    "jump-forge"
+  ],
+  "categories": [
+    "platformer",
+    "singleplayer",
+    "co-op",
+    "multiplayer",
+    "funny"
+  ],
+  "logoImage": "",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1779388937024-dlcpack2.png",
+  "releaseDate": "2027-05-03",
+  "releaseTba": false,
+  "description": "DLC Content",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4762910",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
