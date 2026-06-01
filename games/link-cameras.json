@@ -14,8 +14,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1780007750711-link-cameras-logo-transparent-1280x720.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1780007766378-link-cameras-bg.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "releaseDate": "2026-11-03",
+  "releaseTba": false,
   "description": "You work as a moderator for a strange camera website called L!nk Cameras. Watch live feeds, approve or reject cameras, follow the admin’s instructions, and uncover what hides behind each connection.",
   "links": [
     {
