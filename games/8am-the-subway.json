@@ -1,5 +1,7 @@
 {
   "title": "8AM: The Subway",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "david-gallardo"
   ],
@@ -11,7 +13,7 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778089966488-logo.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778089969394-bg.png",
-  "releaseDate": "2026-07-01",
+  "releaseDate": "2026-07-10",
   "releaseTba": false,
   "description": "\"8AM: The Subway\" is a suspense game set in the subway after midnight. Watch the security cameras as eerie events unfold and decide if it’s fatigue, malfunction, or something far darker until 8:00 a.m.",
   "links": [
