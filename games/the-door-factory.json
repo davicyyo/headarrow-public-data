@@ -14,8 +14,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1780776850141-the-door-factory-logo-transparent.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1780776856638-preview.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "releaseDate": "2026-09-18",
+  "releaseTba": false,
   "description": "The Door Factory is a first-person horror game where you inspect mysterious doors before they are sent into production. Step inside, observe the environment, spot anomalies, and decide whether each door should be approved or reported.",
   "links": [
     {
