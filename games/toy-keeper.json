@@ -1,0 +1,25 @@
+{
+  "title": "Toy Keeper",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1782079342016-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1782079348773-aa.png",
+  "releaseDate": "2026-08-21",
+  "releaseTba": false,
+  "description": "Sort 1,606 toys across a massive three-floor toy store, unlock powerful upgrades, and turn complete chaos into perfect organization in this cozy 3D cleanup game.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4867330/Toy_Keeper/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
