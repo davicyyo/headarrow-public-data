@@ -1,0 +1,27 @@
+{
+  "title": "Serve Up!",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "simsam"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing",
+    "management",
+    "job sim"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1784216920638-logo-transparent.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1784216926669-background.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Prepare drinks, burgers, desserts, coffee and more in a 3D fast-food job simulator. Master hands-on cooking stations, progress from worker to manager, and serve orders solo or with up to 4 players.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4953560/Serve_Up/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
