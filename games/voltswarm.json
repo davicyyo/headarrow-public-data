@@ -1,0 +1,27 @@
+{
+  "title": "Voltswarm",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "david-seco"
+  ],
+  "categories": [
+    "action",
+    "action roguelike",
+    "arcade",
+    "bulletheaven",
+    "colorful"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1784766509707-library-logo-1280x720.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1784766519840-horizontal.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "A lone robot faces an ever-growing machine swarm in this 3D bullet heaven. Weapons fire automatically. Choose your weapons, upgrades, cores, and mods wisely, then survive escalating waves of industrial chaos.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/4979220/Voltswarm",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
