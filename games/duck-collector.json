@@ -12,8 +12,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778095939301-1280.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1778096227853-ducksample.png",
-  "releaseDate": "2026-08-01",
-  "releaseTba": false,
+  "releaseDate": "",
+  "releaseTba": true,
   "description": "Not just luck, a skill-based claw machine with real physics, arcade minigames, and dozens of ducks to collect.",
   "links": [
     {
