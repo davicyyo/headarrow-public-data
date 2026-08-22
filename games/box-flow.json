@@ -16,8 +16,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1783118522747-logo.png",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1783118528336-bg.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "releaseDate": "2026-11-06",
+  "releaseTba": false,
   "description": "Box Flow is a cozy incremental packing puzzle where you scan, pack, seal, label, and ship orders while unlocking perks, automation, bigger boxes, contracts, and endless warehouse challenges.",
   "links": [
     {
