@@ -1,0 +1,25 @@
+{
+  "title": "Coffee Keeper",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "keeplr"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1788196076167-logo.webp",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1788196095133-cover-bg-1920x1080.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Sort 4,179 scattered bags, tins, bottles, brewing gear, pastries and more throughout a two-storey coffee house. Match every piece to its proper place, unlock helpful skills, and restore perfect order at your own pace—or race the clock.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5196790/Coffee_Keeper/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
