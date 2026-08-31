@@ -12,8 +12,8 @@
   ],
   "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1787727050180-logo.webp",
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1787727071656-bg.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "releaseDate": "2026-10-09",
+  "releaseTba": false,
   "description": "A cozy first-person organizing simulator where you sort 3,235 scattered bottles, glasses, casks and more throughout a three-storey bar. Match every item to its proper place, combine half bottles, unlock helpful skills, and restore perfect order at your own pace—or race the clock.",
   "links": [
     {
