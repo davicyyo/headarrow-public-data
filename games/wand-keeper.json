@@ -1,0 +1,25 @@
+{
+  "title": "Wand Keeper",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "keeplr"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1789596662243-logo.webp",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1789596669224-cover-background-1920x1080.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "A cozy first-person organizing simulator where you pair 3,500 wands with their matching cases and file them across a two-storey wand shop. Read each magical stave, restore every pigeon hole, unlock helpful skills, or race the clock in Hardcore mode.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5249670/Wand_Keeper/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
