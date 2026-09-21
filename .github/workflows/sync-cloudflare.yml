@@ -1,0 +1,39 @@
+name: Sync content to Cloudflare
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "*.json"
+      - "assets/**"
+      - "developers/**"
+      - "games/**"
+      - ".github/scripts/sync-cloudflare.mjs"
+      - ".github/workflows/sync-cloudflare.yml"
+
+concurrency:
+  group: headarrow-cloudflare-content
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Upload catalog and media
+        env:
+          CLOUDFLARE_CONTENT_URL: ${{ secrets.CLOUDFLARE_CONTENT_URL }}
+          CLOUDFLARE_SYNC_SECRET: ${{ secrets.CLOUDFLARE_SYNC_SECRET }}
+        run: node .github/scripts/sync-cloudflare.mjs
