@@ -1,5 +1,7 @@
 {
   "title": "Pipeline Crawl",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "david-seco"
   ],
@@ -9,8 +11,8 @@
     "horror",
     "difficult"
   ],
-  "logoImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/pipelogo.png?raw=true",
-  "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/1438.png?raw=true",
+  "logoImage": "https://content.headarrow.com/media/a06df97f22cf8143ff44067011df1acf40683472/assets/pipelogo.png",
+  "bgImage": "https://content.headarrow.com/media/48c96e9051dcf0ebaee62afa918509ca257b1084/assets/1438.png",
   "releaseDate": "2025-04-27",
   "releaseTba": false,
   "description": "Trapped inside a narrow pipeline, your only choices are to move forward or backward. Deadly obstacles stand in your way, and a single mistake means starting over. Can you escape?",
