@@ -1,5 +1,7 @@
 {
   "title": "Cube Mind",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "david-seco"
   ],
@@ -9,8 +11,8 @@
     "puzzle",
     "platformer"
   ],
-  "logoImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cubemindlogo.png?raw=true",
-  "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/cubemindbg.png?raw=true",
+  "logoImage": "https://content.headarrow.com/media/64386546b39c5fd8e795081b620031d4069c513a/assets/cubemindlogo.png",
+  "bgImage": "https://content.headarrow.com/media/41b8d2c11d352172456f871d528371300ee15b85/assets/cubemindbg.png",
   "releaseDate": "2025-11-18",
   "releaseTba": false,
   "description": "Cube Mind is a challenging first-person puzzle game with a futuristic and minimalist aesthetic. Solve interconnected rooms using logic, precision, and creativity in a world where every action matters.",
