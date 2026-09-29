@@ -1,5 +1,7 @@
 {
   "title": "Toy Escape",
+  "gameType": "game",
+  "parentGame": "",
   "developer": [
     "samuel-de-pablo"
   ],
@@ -10,8 +12,8 @@
     "adventure",
     "platformer"
   ],
-  "logoImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/te_logo.png?raw=true",
-  "bgImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/te_bg.png?raw=true",
+  "logoImage": "https://content.headarrow.com/media/e33df331820dd54126e9029588af21683486e990/assets/te_logo.png",
+  "bgImage": "https://content.headarrow.com/media/7ee7631087969feca114358c87c2a85f66a9f269/assets/te_bg.png",
   "releaseDate": "2025-11-04",
   "releaseTba": false,
   "description": "Toy Escape is a co-op game for up to 4 players where you play as a small toy trying to climb your way through a giant house to reach the rooftop and escape. Jump, climb, and find your way out in this fun, toy-sized adventure!",
