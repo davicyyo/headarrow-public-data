@@ -1,0 +1,29 @@
+{
+  "title": "Winky!: Find the Golden Ticket",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "winky"
+  ],
+  "categories": [
+    "2d",
+    "3d",
+    "incremental",
+    "management",
+    "multiplayer",
+    "simulation",
+    "strategy"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791055643467-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791055753336-winky-heap-nologo-1920x1080.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "1 Billion chocolate bars! One golden ticket is hidden in a mountain of Winky chocolate bars. Open them, rewrap the chocolate as your own knock-off brand, Wonko!, and sell it. Hire staff, build production lines and grow a factory big enough to find the ticket, alone or with up to three friends.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5364230/Winky_Find_the_Golden_Ticket",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
