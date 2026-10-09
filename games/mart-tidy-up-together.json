@@ -1,0 +1,25 @@
+{
+  "title": "Mart: Tidy Up Together",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "chicho"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791561040314-mart-tidy-up-transparente.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791563593485-cover-mountain-close-characters.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Tidy up to 19,026 objects across a two-floor store with 25 departments. Pick up products, restock shelves, fold clothes and earn upgrades in this cozy first-person tidying game. Play solo or team up in online co-op with up to 4 players.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5409410/Mart_Tidy_Up_Together/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
