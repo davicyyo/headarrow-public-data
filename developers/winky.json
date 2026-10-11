@@ -1,6 +1,12 @@
 {
   "name": "Winky!",
   "role": "Developer",
-  "avatarImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791055565897-logo-w-512.png",
-  "links": []
+  "avatarImage": "https://content.headarrow.com/media/dc68f29313bdf5acfcf85b174b932379cf9e87d9/assets/1791055565897-logo-w-512.png",
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=Winky!"
+    }
+  ]
 }
