@@ -1,0 +1,25 @@
+{
+  "title": "Video Game Store: Tidy Up",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791921967134-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791921978805-background-no-logo.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Sort 3,000 scattered pieces in a cozy retro video game store. Clean discs and manuals, rebuild 1,000 games and stock the shelves. Serve customers, pack orders, unlock helpful upgrades and hire staff to turn complete chaos into a thriving shop.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5437620/Video_Game_Store_Tidy_Up",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
