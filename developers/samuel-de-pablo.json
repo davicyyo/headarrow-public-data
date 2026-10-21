@@ -1,12 +1,12 @@
 {
-    "name": "Samuel De Pablo",
-    "role": "Developer",
-    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/f97639148e031198ce5edaf0f812d37de32aa4eb_full.jpg?raw=true",
-    "links": [
-        {
-            "name": "Steam",
-            "icon": "fa-brands fa-steam",
-            "url": "https://store.steampowered.com/search/?developer=Samuel%20De%20Pablo"
-        }
-    ]
+  "name": "Samuel De Pablo",
+  "role": "Developer",
+  "avatarImage": "https://content.headarrow.com/media/bc629d51914b825e0016fdfc46bd7a1e61f19b51/assets/f97639148e031198ce5edaf0f812d37de32aa4eb_full.jpg",
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=Samuel%20De%20Pablo"
+    }
+  ]
 }
