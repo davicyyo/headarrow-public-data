@@ -14,10 +14,10 @@
     "simulation",
     "strategy"
   ],
-  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791055643467-logo.png",
-  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1791055753336-winky-heap-nologo-1920x1080.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "logoImage": "https://content.headarrow.com/media/13d482418ea84ef495bdfac296c234bffd51fe71/assets/1791055643467-logo.png",
+  "bgImage": "https://content.headarrow.com/media/df3b079a5498695ec413d3c02513d04df83b30ed/assets/1791055753336-winky-heap-nologo-1920x1080.png",
+  "releaseDate": "2026-11-27",
+  "releaseTba": false,
   "description": "1 Billion chocolate bars! One golden ticket is hidden in a mountain of Winky chocolate bars. Open them, rewrap the chocolate as your own knock-off brand, Wonko!, and sell it. Hire staff, build production lines and grow a factory big enough to find the ticket, alone or with up to three friends.",
   "links": [
     {
