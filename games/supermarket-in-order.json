@@ -1,0 +1,25 @@
+{
+  "title": "Supermarket In Order",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "samuel-de-pablo"
+  ],
+  "categories": [
+    "cozy",
+    "simulation",
+    "relaxing"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1792600942647-logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1792600949368-11.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Thousands of products lie scattered across the supermarket floor. Pick them up, carry them to the right aisle and shelve every one until all 17 sections are perfectly in order. Complete sections to earn skill points and unlock abilities like telekinetic pull and remote placing.",
+  "links": [
+    {
+      "label": "",
+      "url": "https://store.steampowered.com/app/5482120/Supermarket_in_Order/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
