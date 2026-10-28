@@ -10,10 +10,10 @@
     "simulation",
     "relaxing"
   ],
-  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1792600942647-logo.png",
-  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1792600949368-11.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "logoImage": "https://content.headarrow.com/media/c48bd92a7e1c9af8fc3a62f7b4e9312a9e7e2bbd/assets/1792600942647-logo.png",
+  "bgImage": "https://content.headarrow.com/media/3fe5c9748b86a676d6011bb79c36578cda1a45a5/assets/1792600949368-11.png",
+  "releaseDate": "2026-12-03",
+  "releaseTba": false,
   "description": "Thousands of products lie scattered across the supermarket floor. Pick them up, carry them to the right aisle and shelve every one until all 17 sections are perfectly in order. Complete sections to earn skill points and unlock abilities like telekinetic pull and remote placing.",
   "links": [
     {
