@@ -1,0 +1,26 @@
+{
+  "title": "Let's Build Together",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "dreamworlds"
+  ],
+  "categories": [
+    "building",
+    "cozy",
+    "simulation",
+    "co-op"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/lets-build-together/logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/lets-build-together/background.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Rebuild Santa's Village piece by piece, from foundations and brick walls to roofs, furniture and Christmas lights. Build alone or with up to 7 friends, with wheelbarrows, lifts, helper elves and Santa's gifts to speed up the work.",
+  "links": [
+    {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5551100/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
