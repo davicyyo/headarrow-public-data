@@ -1,0 +1,25 @@
+{
+  "title": "Sort In Silence",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "dreadframe"
+  ],
+  "categories": [
+    "horror",
+    "simulation",
+    "co-op"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-in-silence/logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-in-silence/background.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "Shelve up to 8,500 books in a pitch-dark university library while Mika reads at her desk. Work too fast or too loud and she transforms and hunts you. Hide, keep the lights on, buy upgrades, and play solo or in online co-op for up to 4 players.",
+  "links": [
+    {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5507440/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
