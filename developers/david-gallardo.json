@@ -1,17 +1,17 @@
 {
-    "name": "David Gallardo",
-    "role": "Founder",
-    "avatarImage": "https://github.com/davicyyo/headarrow-public-data/blob/main/assets/-Xi4oHks_400x400.jpg?raw=true",
-    "links": [
-        {
-            "name": "X",
-            "icon": "fa-brands fa-x",
-            "url": "https://x.com/davicyyoYT"
-        },
-        {
-            "name": "Steam",
-            "icon": "fa-brands fa-steam",
-            "url": "https://store.steampowered.com/search/?developer=David%20Gallardo"
-        }
-    ]
+  "name": "David Gallardo",
+  "role": "Developer",
+  "avatarImage": "https://content.headarrow.com/media/20ffbb99553dfbbf325837cdc9c2c508f9181e16/assets/-Xi4oHks_400x400.jpg",
+  "links": [
+    {
+      "name": "X",
+      "icon": "fa-brands fa-x",
+      "url": "https://x.com/davicyyoYT"
+    },
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=David%20Gallardo"
+    }
+  ]
 }
