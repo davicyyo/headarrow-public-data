@@ -2,5 +2,11 @@
   "name": "DreadFrame",
   "role": "Developer",
   "avatarImage": "https://content.headarrow.com/media/1cea545c2d959d08d28266975f3cef8ac344bcb1/assets/1793679801292-logotipo-de-terror-retro.png",
-  "links": []
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=DreadFrame"
+    }
+  ]
 }
