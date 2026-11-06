@@ -11,14 +11,14 @@
     "simulation",
     "co-op"
   ],
-  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/lets-build-together/logo.png",
-  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/lets-build-together/background.png",
-  "releaseDate": "2027-03-01",
-  "releaseTba": true,
+  "logoImage": "https://content.headarrow.com/media/24fa3913bcf5f25d225ecc7abe8cbb11e7bcdee0/assets/lets-build-together/logo.png",
+  "bgImage": "https://content.headarrow.com/media/ca24c60c7cede653ed2c83df820f309eebe11cbd/assets/lets-build-together/background.png",
+  "releaseDate": "2026-12-11",
+  "releaseTba": false,
   "description": "Build up to 859,436 pieces in a single map, solo or with up to 8 friends. Unlock powerful upgrades, automate construction with helpers, and turn empty plots into finished buildings in this cozy first-person building game.",
   "links": [
     {
-      "label": "Steam",
+      "label": "",
       "url": "https://store.steampowered.com/app/5551100/",
       "icon": "fa-brands fa-steam"
     }
