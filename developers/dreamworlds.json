@@ -1,6 +1,12 @@
 {
   "name": "DreamWorlds",
   "role": "Developer",
-  "avatarImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/1793643783177-app-icon-512x512.png",
-  "links": []
+  "avatarImage": "https://content.headarrow.com/media/fdd7e31c4d3c1c5c470b57ea58d2a12e588597ad/assets/1793643783177-app-icon-512x512.png",
+  "links": [
+    {
+      "name": "Steam",
+      "icon": "fa-brands fa-steam",
+      "url": "https://store.steampowered.com/search/?developer=DreamWorlds"
+    }
+  ]
 }
