@@ -1,7 +1,7 @@
 {
   "heros": [
+    "box-flow.json",
     "jewelry-keeper.json",
-    "link-cameras.json",
-    "coffee-keeper.json"
+    "link-cameras.json"
   ]
 }
