@@ -1,7 +1,7 @@
 {
   "heros": [
+    "voltswarm.json",
     "box-flow.json",
-    "jewelry-keeper.json",
-    "link-cameras.json"
+    "jewelry-keeper.json"
   ]
 }
