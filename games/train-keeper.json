@@ -3,7 +3,7 @@
   "gameType": "game",
   "parentGame": "",
   "developer": [
-    "headarrow"
+    "keeplr"
   ],
   "categories": [
     "simulation",
@@ -14,7 +14,7 @@
   "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/train-keeper/background.png",
   "releaseDate": "",
   "releaseTba": true,
-  "description": "You are the attendant on an empty night train. On the last bend everything came down. Make up every berth, lay every table and put every case, glass and bottle back in its own car — twenty-two cars, engine to tail — before the train pulls into the station.",
+  "description": "A cozy first-person organizing simulator aboard a night train. Make beds, set tables and sort up to 2,443 objects across 22 cars before the train reaches the station.",
   "links": [
     {
       "label": "Steam",
