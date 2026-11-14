@@ -1,0 +1,25 @@
+{
+  "title": "Train Keeper",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "headarrow"
+  ],
+  "categories": [
+    "simulation",
+    "casual",
+    "indie"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/train-keeper/logo.webp",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/train-keeper/background.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "You are the attendant on an empty night train. On the last bend everything came down. Make up every berth, lay every table and put every case, glass and bottle back in its own car — twenty-two cars, engine to tail — before the train pulls into the station.",
+  "links": [
+    {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5625470/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
