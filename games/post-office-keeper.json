@@ -1,0 +1,25 @@
+{
+  "title": "Post Office Keeper",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "keeplr"
+  ],
+  "categories": [
+    "simulation",
+    "casual",
+    "indie"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/post-office-keeper/logo-350d974eef656180.webp",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/post-office-keeper/background-1ab36d1e1ecd7fa9.png",
+  "releaseDate": "",
+  "releaseTba": true,
+  "description": "A cozy first-person organizing simulator in a frontier post office. Sort up to 4,845 letters and parcels by stamp and surname, fill every pigeonhole, and unlock helpful skills. Restore order at your own pace in Cozy mode, or race the clock in Hardcore.",
+  "links": [
+    {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5656530/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
