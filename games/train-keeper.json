@@ -10,14 +10,14 @@
     "casual",
     "indie"
   ],
-  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/train-keeper/logo.webp",
-  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/train-keeper/background-139614b280fff1a5.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "logoImage": "https://content.headarrow.com/media/edbf3d9b74d093808a439b6f5ee2d0cd644f2869/assets/train-keeper/logo.webp",
+  "bgImage": "https://content.headarrow.com/media/4b27a11adb9a6ccd73c6aa000de61c9f892b3bd0/assets/train-keeper/background-139614b280fff1a5.png",
+  "releaseDate": "2026-12-25",
+  "releaseTba": false,
   "description": "A cozy first-person organizing simulator aboard a night train. Make beds, set tables and sort up to 2,443 objects across 22 cars before the train reaches the station.",
   "links": [
     {
-      "label": "Steam",
+      "label": "",
       "url": "https://store.steampowered.com/app/5625470/",
       "icon": "fa-brands fa-steam"
     }
