@@ -10,14 +10,14 @@
     "casual",
     "indie"
   ],
-  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/post-office-keeper/logo-350d974eef656180.webp",
-  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/post-office-keeper/background-1ab36d1e1ecd7fa9.png",
-  "releaseDate": "",
-  "releaseTba": true,
+  "logoImage": "https://content.headarrow.com/media/64df73cffab61ee8b9b3408682e039c3392b1b5e/assets/post-office-keeper/logo-350d974eef656180.webp",
+  "bgImage": "https://content.headarrow.com/media/5eb5882cc4bba368502f96513430bc1c7e5c47ee/assets/post-office-keeper/background-1ab36d1e1ecd7fa9.png",
+  "releaseDate": "2027-01-08",
+  "releaseTba": false,
   "description": "A cozy first-person organizing simulator in a frontier post office. Sort up to 4,845 letters and parcels by stamp and surname, fill every pigeonhole, and unlock helpful skills. Restore order at your own pace in Cozy mode, or race the clock in Hardcore.",
   "links": [
     {
-      "label": "Steam",
+      "label": "",
       "url": "https://store.steampowered.com/app/5656530/",
       "icon": "fa-brands fa-steam"
     }
