@@ -1,0 +1,25 @@
+{
+  "title": "Sort The Teddies",
+  "gameType": "game",
+  "parentGame": "",
+  "developer": [
+    "pocket-collector"
+  ],
+  "categories": [
+    "casual",
+    "simulation",
+    "co-op"
+  ],
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-the-teddies/logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-the-teddies/background.png",
+  "releaseDate": "2027-01-15",
+  "releaseTba": true,
+  "description": "Sort up to 4,022 teddies in a two-floor toy shop, solo or in online co-op for up to 4 players. Complete shelves, earn perks and find legendary teddies.",
+  "links": [
+    {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5711360/",
+      "icon": "fa-brands fa-steam"
+    }
+  ]
+}
