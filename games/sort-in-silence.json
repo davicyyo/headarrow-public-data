@@ -1,24 +1,24 @@
 {
-  "title": "Sort In Silence",
+  "title": "Sort The Teddies",
   "gameType": "game",
   "parentGame": "",
   "developer": [
-    "dreadframe"
+    "pocket-collector"
   ],
   "categories": [
-    "horror",
+    "casual",
     "simulation",
     "co-op"
   ],
-  "logoImage": "https://content.headarrow.com/media/4e983427edbc4a32f95a6ac8b2e3cc8483b44e58/assets/sort-in-silence/logo-9c8a6b262293e753.png",
-  "bgImage": "https://content.headarrow.com/media/269f6d08e9576dcdcef5d4d5459e103ec72f5cf8/assets/sort-in-silence/background-74dbf58b3d345ccb.jpg",
-  "releaseDate": "2026-12-18",
-  "releaseTba": false,
-  "description": "Shelve up to 8,500 books in a pitch-dark university library while Mika reads at her desk. Work too fast or too loud and she transforms and hunts you. Hide, keep the lights on, buy upgrades, and play solo or in online co-op for up to 4 players.",
+  "logoImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-the-teddies/logo.png",
+  "bgImage": "https://raw.githubusercontent.com/davicyyo/headarrow-public-data/main/assets/sort-the-teddies/background.png",
+  "releaseDate": "2027-01-15",
+  "releaseTba": true,
+  "description": "Sort up to 4,022 teddies in a two-floor toy shop, solo or in online co-op for up to 4 players. Complete shelves, earn perks and find legendary teddies.",
   "links": [
     {
-      "label": "",
-      "url": "https://store.steampowered.com/app/5507440/",
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5711360/",
       "icon": "fa-brands fa-steam"
     }
   ]
